@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bayramov/static/css/main.02f26ff4.css",
+    "main.js": "/bayramov/static/js/main.a139cc2d.js",
+    "static/js/787.f0ba9cbb.chunk.js": "/bayramov/static/js/787.f0ba9cbb.chunk.js",
+    "static/media/profile.jpeg": "/bayramov/static/media/profile.390264f0c4980e6097fd.jpeg",
+    "index.html": "/bayramov/index.html",
+    "main.02f26ff4.css.map": "/bayramov/static/css/main.02f26ff4.css.map",
+    "main.a139cc2d.js.map": "/bayramov/static/js/main.a139cc2d.js.map",
+    "787.f0ba9cbb.chunk.js.map": "/bayramov/static/js/787.f0ba9cbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f26ff4.css",
+    "static/js/main.a139cc2d.js"
+  ]
+}
