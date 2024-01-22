@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bayramov/static/css/main.ef215655.css",
-    "main.js": "/bayramov/static/js/main.dc0db55a.js",
+    "main.css": "/bayramov/static/css/main.4e6d6b41.css",
+    "main.js": "/bayramov/static/js/main.a6f240ab.js",
     "static/js/787.f0ba9cbb.chunk.js": "/bayramov/static/js/787.f0ba9cbb.chunk.js",
     "static/media/getLucky.mp3": "/bayramov/static/media/getLucky.92c38b44015da8d1884e.mp3",
     "static/media/profile.jpeg": "/bayramov/static/media/profile.390264f0c4980e6097fd.jpeg",
     "index.html": "/bayramov/index.html",
-    "main.ef215655.css.map": "/bayramov/static/css/main.ef215655.css.map",
-    "main.dc0db55a.js.map": "/bayramov/static/js/main.dc0db55a.js.map",
+    "main.4e6d6b41.css.map": "/bayramov/static/css/main.4e6d6b41.css.map",
+    "main.a6f240ab.js.map": "/bayramov/static/js/main.a6f240ab.js.map",
     "787.f0ba9cbb.chunk.js.map": "/bayramov/static/js/787.f0ba9cbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef215655.css",
-    "static/js/main.dc0db55a.js"
+    "static/css/main.4e6d6b41.css",
+    "static/js/main.a6f240ab.js"
   ]
 }
