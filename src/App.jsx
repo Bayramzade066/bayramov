@@ -4,6 +4,7 @@ import "./App.css";
 import AudioPlayer from "react-h5-audio-player";
 import "react-h5-audio-player/lib/styles.css";
 import mp3 from "./files/getLucky.mp3"
+import { Link } from "react-router-dom";
 
 
 function App() {
@@ -150,6 +151,11 @@ function App() {
                     <span className="text-green-600">
                       Azerbaijan medical university <br/> & Freelancer
                     </span>
+                    <span className="text-green-600">22</span> <br /> <br />-
+                    Resume: 
+                    <span className="text-green-600 border border-b p-1 rounded-md border-green-600">
+                     <a href="./files/bayramov.pdf" download="My_File.pdf" >Download CV</a>
+                    </span>
                   </span>
                 </div>
               </div>
@@ -275,7 +281,7 @@ function App() {
                     </a>
                     <br />- <a
                       target="_blank"
-                      href="https://bayramzade066.github.io/portfolio-react/"
+                      href="https://bayramovdev.github.io/portfolio-react/"
                       className="text-green-600 border-b border-green-600"
                     >
                       React snow project
@@ -310,14 +316,14 @@ function App() {
                     </a>
                     <br />- <a
                       target="_blank"
-                      href="https://bayramzade066.github.io/Filters/template/index.html"
+                      href="https://bayramovdev.github.io/Filters/template/index.html"
                       className="text-green-600 border-b border-green-600"
                     >
                       Filters
                     </a>
                     <br />- <a
                       target="_blank"
-                      href="https://bayramzade066.github.io/xogame/"
+                      href="https://bayramovdev.github.io/xogame/"
                       className="text-green-600 border-b border-green-600"
                     >
                       
@@ -325,7 +331,7 @@ function App() {
                     </a>
                     <br /> - <a
                       target="_blank"
-                      href="https://bayramzade066.github.io/StickyNotes/StickyNotes/index.html"
+                      href="https://bayramovdev.github.io/StickyNotes/StickyNotes/index.html"
                       className="text-green-600 border-b border-green-600"
                     >
                       Sticky Notes
@@ -378,7 +384,7 @@ function App() {
                       <i class="fa fa-envelope" aria-hidden="true"></i>
                       </div>
                     </a>
-                    <a href="https://github.com/Bayramzade066" target="_blank">
+                    <a href="https://github.com/Bayramovdev" target="_blank">
                       <div class="i ">
                         <i class="fab fa-github"></i>
                       </div>
