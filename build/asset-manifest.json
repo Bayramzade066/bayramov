@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bayramovDev/Portfolio/static/css/main.1d1b28a2.css",
-    "main.js": "/bayramovDev/Portfolio/static/js/main.b6149a91.js",
-    "static/js/787.f0ba9cbb.chunk.js": "/bayramovDev/Portfolio/static/js/787.f0ba9cbb.chunk.js",
-    "static/media/getLucky.mp3": "/bayramovDev/Portfolio/static/media/getLucky.92c38b44015da8d1884e.mp3",
-    "static/media/profile.jpeg": "/bayramovDev/Portfolio/static/media/profile.390264f0c4980e6097fd.jpeg",
-    "index.html": "/bayramovDev/Portfolio/index.html",
-    "main.1d1b28a2.css.map": "/bayramovDev/Portfolio/static/css/main.1d1b28a2.css.map",
-    "main.b6149a91.js.map": "/bayramovDev/Portfolio/static/js/main.b6149a91.js.map",
-    "787.f0ba9cbb.chunk.js.map": "/bayramovDev/Portfolio/static/js/787.f0ba9cbb.chunk.js.map"
+    "main.css": "/bayramovDev/bayramov/static/css/main.886316f1.css",
+    "main.js": "/bayramovDev/bayramov/static/js/main.27b04873.js",
+    "static/js/787.f0ba9cbb.chunk.js": "/bayramovDev/bayramov/static/js/787.f0ba9cbb.chunk.js",
+    "static/media/getLucky.mp3": "/bayramovDev/bayramov/static/media/getLucky.92c38b44015da8d1884e.mp3",
+    "static/media/profile.jpeg": "/bayramovDev/bayramov/static/media/profile.390264f0c4980e6097fd.jpeg",
+    "index.html": "/bayramovDev/bayramov/index.html",
+    "main.886316f1.css.map": "/bayramovDev/bayramov/static/css/main.886316f1.css.map",
+    "main.27b04873.js.map": "/bayramovDev/bayramov/static/js/main.27b04873.js.map",
+    "787.f0ba9cbb.chunk.js.map": "/bayramovDev/bayramov/static/js/787.f0ba9cbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d1b28a2.css",
-    "static/js/main.b6149a91.js"
+    "static/css/main.886316f1.css",
+    "static/js/main.27b04873.js"
   ]
 }
